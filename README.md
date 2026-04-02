@@ -1,3 +1,3 @@
 # phpweblogin
-PHP easy weblogin + MySQL + directory bootstrap
+PHP easy weblogin + MySQL
 
